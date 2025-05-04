@@ -6,11 +6,11 @@ This is a full-stack To-Do list application built using Node.js, Express, Postgr
 
 ## 🔧 Features
 
-- ✅ Add new tasks
-- ✏️ Inline edit existing tasks
-- ❌ Delete tasks with a checkbox
-- 🧠 Persistent database storage using PostgreSQL
-- 💡 Smooth user interface with EJS and custom CSS
+-  Add new tasks
+-  Inline edit existing tasks
+-  Delete tasks with a checkbox
+-  Persistent database storage using PostgreSQL
+-  Smooth user interface with EJS and custom CSS
 
 ---
 
