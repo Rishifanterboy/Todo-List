@@ -21,20 +21,22 @@ This is a full-stack To-Do list application built using Node.js, Express, Postgr
 - **Frontend**: EJS templating engine, HTML5, CSS3
 - **Database**: PostgreSQL
 - **Tools**: Body-parser, Nodemon (optional)
----
 
-## 📂 Folder Structure
+```
+📂 Folder Structure
 
 permalist-todo-ejs-app/
-├── public/ # Static files (CSS, icons, etc.)
-│ └── styles.css
+├── public/              # Static files (CSS, icons, etc.)
+│   └── styles.css
 ├── views/
-│ ├── partials/
-│ │ ├── header.ejs
-│ │ └── footer.ejs
-│ └── index.ejs # Main template
-├── app.js # Express server & routes
+│   ├── partials/
+│   │   ├── header.ejs
+│   │   └── footer.ejs
+│   └── index.ejs        # Main template
+├── app.js               # Express server & routes
 ├── package.json
 ├── .gitignore
 └── README.md
+```
+
 
