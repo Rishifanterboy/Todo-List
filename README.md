@@ -12,6 +12,15 @@ This is a full-stack To-Do list application built using Node.js, Express, Postgr
 -  Persistent database storage using PostgreSQL
 -  Smooth user interface with EJS and custom CSS
 
+
+---
+
+## 🧰 Tech Stack
+
+- **Backend**: Node.js, Express
+- **Frontend**: EJS templating engine, HTML5, CSS3
+- **Database**: PostgreSQL
+- **Tools**: Body-parser, Nodemon (optional)
 ---
 
 ## 📂 Folder Structure
@@ -29,11 +38,3 @@ permalist-todo-ejs-app/
 ├── .gitignore
 └── README.md
 
----
-
-## 🧰 Tech Stack
-
-- **Backend**: Node.js, Express
-- **Frontend**: EJS templating engine, HTML5, CSS3
-- **Database**: PostgreSQL
-- **Tools**: Body-parser, Nodemon (optional)
