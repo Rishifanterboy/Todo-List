@@ -22,9 +22,10 @@ This is a full-stack To-Do list application built using Node.js, Express, Postgr
 - **Database**: PostgreSQL
 - **Tools**: Body-parser, Nodemon (optional)
 
-```
-📂 Folder Structure
+---
 
+📂 Folder Structure
+```
 permalist-todo-ejs-app/
 ├── public/              # Static files (CSS, icons, etc.)
 │   └── styles.css
